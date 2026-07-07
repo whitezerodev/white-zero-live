@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "id": "2026-07-news-001",
+      "title": "Welcome to White Zero",
+      "body": "Thanks for playing! Update 1.1 brings 3 new weapons and the Deep Memory sector.",
+      "expires": "2026-08-15"
+    },
+    {
+      "id": "2026-07-gift-001",
+      "title": "Launch Celebration",
+      "body": "A small thank-you from the dev. Enjoy!",
+      "diamonds": 100,
+      "starts": "2026-07-10",
+      "expires": "2026-07-24"
+    },
+    {
+      "id": "support-2026-07-07-a",
+      "title": "Sorry about that bug",
+      "body": "Thanks for the report — here's a compensation gift.",
+      "diamonds": 300,
+      "to": "WZ-K3PM-9XQ2",
+      "expires": "2026-09-01"
+    }
+  ]
+}
