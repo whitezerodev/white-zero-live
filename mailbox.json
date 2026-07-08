@@ -2,14 +2,14 @@
   "messages": [
     {
       "id": "2026-07-news-001",
-      "title": "Welcome to White Zero",
+      "title": "Welcome to White Zero Survivor",
       "body": "Thanks for playing! We'll keep you updated on news and updates here. Have fun exploring the world of White Zero!",
       "expires": "2026-08-15"
     },
     {
       "id": "2026-07-gift-001",
       "title": "Launch Celebration",
-      "body": "A small token of gratitude for engaging with White Zero. Here is a little something to get you started!",
+      "body": "A small token of gratitude for engaging with White Zero Survivor. Here is a little something to get you started!",
       "diamonds": 100,
       "starts": "2026-07-07",
       "expires": "2026-10-30"
